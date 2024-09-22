@@ -37,8 +37,7 @@ Purpose of taking loan - it is quite clear from the plot that people with a purp
 
 ## Technologies Used
 - Python 3
-- library - version 2.0
-- library - version 3.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
